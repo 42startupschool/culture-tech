@@ -3,9 +3,6 @@ slidenumbers: true
 
 # Hey !
 
-^ À 42, on apprend plein de choses super. on apprend à coder, on apprend à travailler en équipe, on apprend à apprendre
-^ et puis le first internship
-
 ---
 
 # Keep technological watch
