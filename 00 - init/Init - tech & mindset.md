@@ -1,7 +1,7 @@
 footer: Thomas Payet & Quentin de Quelen
 slidenumbers: true
 
-# Init
+# 00 - Init
 
 ## Tech & Mindset
 
